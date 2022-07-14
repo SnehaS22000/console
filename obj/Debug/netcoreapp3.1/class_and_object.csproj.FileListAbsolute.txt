@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.exe
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.deps.json
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.dll
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\bin\Debug\netcoreapp3.1\class_and_object.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.dll
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\class_and_object\obj\Debug\netcoreapp3.1\class_and_object.genruntimeconfig.cache
